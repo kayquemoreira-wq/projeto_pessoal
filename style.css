@@ -38,5 +38,5 @@ p, li {
 
 main {
     background-color: #589ed6;
-    
+    display: flex;
 }
