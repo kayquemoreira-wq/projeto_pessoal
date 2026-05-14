@@ -21,3 +21,8 @@ header {
 p, li {
     color: white;
 }
+
+.logo img {
+    border-radius: 50%;
+    cursor: pointer;
+}
